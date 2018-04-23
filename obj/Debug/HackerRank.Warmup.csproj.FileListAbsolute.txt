@@ -1,0 +1,6 @@
+C:\DevStudies\HackerRank\HackerRank\HackerRank.Warmup\bin\Debug\HackerRank.Warmup.exe.config
+C:\DevStudies\HackerRank\HackerRank\HackerRank.Warmup\bin\Debug\HackerRank.Warmup.exe
+C:\DevStudies\HackerRank\HackerRank\HackerRank.Warmup\bin\Debug\HackerRank.Warmup.pdb
+C:\DevStudies\HackerRank\HackerRank\HackerRank.Warmup\obj\Debug\HackerRank.Warmup.csproj.CoreCompileInputs.cache
+C:\DevStudies\HackerRank\HackerRank\HackerRank.Warmup\obj\Debug\HackerRank.Warmup.exe
+C:\DevStudies\HackerRank\HackerRank\HackerRank.Warmup\obj\Debug\HackerRank.Warmup.pdb
